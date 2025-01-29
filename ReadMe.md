@@ -1,4 +1,4 @@
-<h1 align = "center"> NEXT JS ROAD MAP</h1>
+[<h1 align = "center"> NEXT JS ROAD MAP</h1>](#road-map)
 
 Okay, so I want to learn Next.js. I've heard it's a React framework that's really good for building server-side rendered applications and static sites. But where do I start? Let me think.
 
@@ -42,3 +42,6 @@ Okay, so I want to learn Next.js. I've heard it's a React framework that's reall
 
 + Putting it all together, I need a structured plan. Start with the basics, set up a project, go through the docs, build small projects, gradually incorporate more advanced features, and keep practicing. Maybe join a community to ask questions and share progress.
 
+- ### **ROAD MAP**
+  _Description:_ Here's a simple road map for that
+  **[Click here to view](https://github.com/johnbhd/MyLearningRoadMap/blob/nextjs/roadmap.md)**
